@@ -1,0 +1,20 @@
+start = chapter
+chapter = element chapter { n, p+ }
+n = attribute n { xsd:integer }
+p =
+  element p {
+    abridgement?,
+    mixed { ling* }
+  }
+abridgement = attribute abridgement { "true" }
+ling = element ling { lingText, lingExplanation }
+lingText =
+  element lingText {
+    mixed { ukrainian* }
+  }
+lingExplanation =
+  element lingExplanation {
+    mixed { (ukrainian | gloss)* }
+  }
+ukrainian = element ukrainian { text }
+gloss = element gloss { text }
