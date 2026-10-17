@@ -44,12 +44,11 @@
       <lingText>б’ю́ть</lingText>
       <lingExplanation><ukrainian>би́ти</ukrainian>
         <gloss>to beat, hit, strike</gloss></lingExplanation>
-    </ling>
-    <ling>
-      <lingText>(бода́й не зга́дувати!)</lingText>
+    </ling> (<ling>
+      <lingText>бода́й не зга́дувати!</lingText>
       <lingExplanation>The phrase <ukrainian>бода́й не зга́дувати</ukrainian> means<gloss>it would
           be better to not recall</gloss>.</lingExplanation>
-    </ling>— не <ling>
+    </ling>)— не <ling>
       <lingText>здержу́</lingText>
       <lingExplanation><ukrainian>зде́ржати</ukrainian>
         <gloss>to hold back, restrain oneself</gloss></lingExplanation>
@@ -577,7 +576,7 @@
           часом</ukrainian>; <ukrainian>проте</ukrainian>)</lingExplanation>
     </ling> , я́к воно́ бу́де, ще́ <ling>
       <lingText>невідо́мо</lingText>
-      <lingExplanation>(adv. impers.) <gloss>it is not known</gloss></lingExplanation>
+      <lingExplanation><gloss>it is not known</gloss> (adv. impers.)</lingExplanation>
     </ling>. Сама́ ж ді́вчи́на <ling>
       <lingText>заду́малася</lingText>
       <lingExplanation><ukrainian>заду́матися</ukrainian>
