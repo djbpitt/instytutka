@@ -1,0 +1,48 @@
+:root {
+  background-color: lightyellow;
+  color: black;
+  --faded: gray;
+}
+html,
+body { /* for scrolling */
+  height: 100%;
+  margin: 0;
+}
+body {
+  display: flex;
+  flex-direction: row;
+  /* Prevent text selection flicker while dragging */
+  user-select: none;
+}
+body > section { /* for scrolling */
+  min-height: 0;
+  scroll-behavior: smooth;
+  overflow-y: auto;
+  min-width: 0; /* disable default auto, so all width is from JS */
+}
+#reading {
+  flex: 1;
+}
+#divider {
+  width: 6px;
+  background: #ccc;
+  cursor: ew-resize;
+  transition: background 0.2s;
+  flex-shrink: 0; /* Ensures the divider itself never squishes */
+}
+#divider:hover {
+  background: #888;
+}
+#ling {
+  flex: 0 0 360px; /* Initial fixed width for the right panel */
+}
+.highlighted-target { /* Highlights ling target of click in reading */
+  background-color: #ffeb3b;
+  transition: background-color 0.3s ease;
+}
+.ukrainian {
+  font-style: italic;
+}
+.abridged {
+  color: var(--faded);
+}
