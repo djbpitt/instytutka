@@ -19,6 +19,8 @@ body > section { /* for scrolling */
   scroll-behavior: smooth;
   overflow-y: auto;
   min-width: 0; /* disable default auto, so all width is from JS */
+  box-sizing: border-box;
+  padding: 1em;
 }
 #reading {
   flex: 1;
