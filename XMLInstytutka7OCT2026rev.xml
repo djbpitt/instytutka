@@ -38,8 +38,7 @@
         <gloss>to say, speak, spell, talk</gloss></lingExplanation>
     </ling>, та і вда́йся… <ling>
       <lingText>було́</lingText>
-      <lingExplanation><ukrainian>було́</ukrainian>
-        <gloss>it happened that</gloss></lingExplanation>
+      <lingExplanation><gloss>it happened that</gloss></lingExplanation>
     </ling>, мене́ й <ling>
       <lingText>б’ю́ть</lingText>
       <lingExplanation><ukrainian>би́ти</ukrainian>
@@ -77,8 +76,7 @@
     </ling>
     <ling>
       <lingText>ли́хо</lingText>
-      <lingExplanation><ukrainian>ли́хо</ukrainian>
-        <gloss>evil, grief, sadness</gloss></lingExplanation>
+      <lingExplanation><gloss>evil, grief, sadness</gloss></lingExplanation>
     </ling>, що пла́че, а бува́є, що й <ling>
       <lingText>ска́че</lingText>
       <lingExplanation><ukrainian>ската́ти</ukrainian>
@@ -89,16 +87,14 @@
           <gloss>misfortune</gloss></lingExplanation>
     </ling>. <ling>
       <lingText>Якби́</lingText>
-      <lingExplanation><ukrainian>Якби́</ukrainian>
-        <gloss>if</gloss></lingExplanation>
+      <lingExplanation><gloss>if</gloss></lingExplanation>
     </ling> мені́ за <ling>
       <lingText>ко́жною</lingText>
       <lingExplanation><ukrainian>ко́жний</ukrainian>
         <gloss>every, all</gloss></lingExplanation>
     </ling> бідо́ю моє́ю пла́кати, <ling>
       <lingText>до́сі</lingText>
-      <lingExplanation><ukrainian>до́сі</ukrainian>
-        <gloss>by now, till now</gloss></lingExplanation>
+      <lingExplanation><gloss>by now, till now</gloss></lingExplanation>
     </ling> б і <ling>
       <lingText>о́чі</lingText>
       <lingExplanation><ukrainian>о́ко</ukrainian>
@@ -119,25 +115,23 @@
         means <gloss>in a foreign land among strangers</gloss>.</lingExplanation>
     </ling>. <ling>
       <lingText>Хо́ч</lingText>
-      <lingExplanation><ukrainian>Хо́ч</ukrainian>
-        <gloss>even if, although</gloss></lingExplanation>
+      <lingExplanation><gloss>even if, although</gloss></lingExplanation>
     </ling> не було́ <ling>
       <lingText>ді́ла</lingText>
       <lingExplanation><ukrainian>ді́ло</ukrainian>
-        <gloss>affair, </gloss>work</lingExplanation>
+        <gloss>affair, work</gloss></lingExplanation>
     </ling>
     <ling>
       <lingText>важко́го</lingText>
       <lingExplanation><ukrainian>важки́й</ukrainian>
-        <gloss>hard, </gloss>difficult</lingExplanation>
+        <gloss>hard, difficult</gloss></lingExplanation>
     </ling>, — та́к <ling>
       <lingText>забува́ли</lingText>
       <lingExplanation><ukrainian>забува́ти</ukrainian>
         <gloss>to forget</gloss></lingExplanation>
     </ling> про ме́не, <ling>
       <lingText>чи</lingText>
-      <lingExplanation><ukrainian>чи</ukrainian>
-        <gloss>if, whether</gloss></lingExplanation>
+      <lingExplanation><gloss>if, whether</gloss></lingExplanation>
     </ling> я́ не <ling>
       <lingText>голо́дна</lingText>
       <lingExplanation><ukrainian>голо́дний</ukrainian>
@@ -162,8 +156,7 @@
         <gloss>to take</gloss></lingExplanation>
     </ling> мене́ в <ling>
       <lingText>дві́р</lingText>
-      <lingExplanation><ukrainian>дві́р</ukrainian>
-        <gloss>manor house</gloss></lingExplanation>
+      <lingExplanation><gloss>manor house</gloss></lingExplanation>
     </ling>. Стара́ па́ні була́ не́ що, <ling>
       <lingText>суми́рна</lingText>
       <lingExplanation><ukrainian>суми́р</ukrainian>
@@ -174,16 +167,14 @@
         <gloss>weak, ancient</gloss></lingExplanation>
     </ling> була́, <ling>
       <lingText>ледве́</lingText>
-      <lingExplanation><ukrainian>ледве́</ukrainian>
-        <gloss>hardly</gloss></lingExplanation>
+      <lingExplanation><gloss>hardly</gloss></lingExplanation>
     </ling> но́ги <ling>
       <lingText>волочи́ла</lingText>
       <lingExplanation><ukrainian>волочи́ти</ukrainian>
         <gloss>to drag along</gloss></lingExplanation>
     </ling>, а загово́рить — ті́льки <ling>
       <lingText>ша́м-ша́м</lingText>
-      <lingExplanation><ukrainian>ша́м-ша́м</ukrainian>
-        <gloss>whisper, mumble[d]</gloss></lingExplanation>
+      <lingExplanation><gloss>whisper, mumble[d]</gloss></lingExplanation>
     </ling>, <ling>
       <lingText>одра́зу</lingText>
       <lingExplanation><ukrainian>відра́зу</ukrainian>
@@ -194,15 +185,13 @@
         <gloss>to comprehend</gloss></lingExplanation>
     </ling>; та́к куди́ вже́ <ling>
       <lingText>бі́йка</lingText>
-      <lingExplanation><ukrainian>бі́йка</ukrainian>
-        <gloss>beating, whipping</gloss></lingExplanation>
+      <lingExplanation><gloss>beating, whipping</gloss></lingExplanation>
     </ling>! <ling>
       <lingText>не на умі́</lingText>
-      <lingExplanation>The phrase <ukrainian>не на умі́</ukrainian> means <gloss>that was not to be
-          thought of!</gloss>.</lingExplanation>
+      <lingExplanation><gloss>that was not to be thought of!</gloss></lingExplanation>
     </ling>. Уве́сь де́нь на <ling>
       <lingText>ґа́ночках</lingText>
-      <lingExplanation><ukrainian>ґа́ночках</ukrainian> diminutive of <ukrainian>ґа́нок</ukrainian>
+      <lingExplanation>diminutive of <ukrainian>ґа́нок</ukrainian>
         <gloss>porch</gloss></lingExplanation>
     </ling>; ні́чка йде́ — <ling>
       <lingText>о́хає</lingText>
@@ -220,19 +209,16 @@
         <gloss>peace, quiet</gloss></lingExplanation>
     </ling>; одно́ було́ го́ре, що з дво́ру й <ling>
       <lingText>ступи́ти</lingText>
-      <lingExplanation><ukrainian>ступи́ти</ukrainian>
-        <gloss>to step</gloss></lingExplanation>
+      <lingExplanation><gloss>to step</gloss></lingExplanation>
     </ling> не <ling>
       <lingText>пу́стять</lingText>
-      <lingExplanation><ukrainian>пу́стять</ukrainian>
-        <gloss>to allow, permit, let</gloss></lingExplanation>
+      <lingExplanation><gloss>to allow, permit, let</gloss></lingExplanation>
     </ling>. <ling>
       <lingText>Хіба́ вже́</lingText>
       <lingExplanation><gloss>unless</gloss></lingExplanation>
     </ling> на вели́ке <ling>
       <lingText>свя́то</lingText>
-      <lingExplanation><ukrainian>свя́то</ukrainian>
-        <gloss>holiday, feast</gloss></lingExplanation>
+      <lingExplanation><gloss>holiday, feast</gloss></lingExplanation>
     </ling>, що до це́ркви <ling>
       <lingText>одпро́симось</lingText>
       <lingExplanation><ukrainian>відпроси́тися</ukrainian>
@@ -263,8 +249,7 @@
         <gloss>to learn, study</gloss></lingExplanation>
     </ling> у яко́мусь та́м… от коли́ б <ling>
       <lingText>вимо́вити</lingText>
-      <lingExplanation><ukrainian>вимо́вити</ukrainian>
-        <gloss>to pronounce, utter</gloss></lingExplanation>
+      <lingExplanation><gloss>to pronounce, utter</gloss></lingExplanation>
     </ling>… ін-сти-ту́-ті… Було́ <ling>
       <lingText>часте́нько</lingText>
       <lingExplanation><ukrainian>часте́нький</ukrainian>
@@ -289,24 +274,20 @@
         <gloss>in order to</gloss> (thus a request or command)</lingExplanation>
     </ling> уже́ приїзди́ти за не́ю та додо́му <ling>
       <lingText>забира́ти</lingText>
-      <lingExplanation><ukrainian>забира́ти</ukrainian>
-        <gloss>to take, snatch away</gloss></lingExplanation>
+      <lingExplanation><gloss>to take, snatch away</gloss></lingExplanation>
     </ling>… Ма́ти Бо́жа! уве́сь буди́нок <ling>
       <lingText>зворухну́вся</lingText>
       <lingExplanation><ukrainian>зворухну́тися</ukrainian>
         <gloss>to begin to bustle</gloss></lingExplanation>
     </ling>: <ling>
       <lingText>біли́ти</lingText>
-      <lingExplanation><ukrainian>біли́ти</ukrainian>
-        <gloss>to bleach</gloss></lingExplanation>
+      <lingExplanation><gloss>to bleach</gloss></lingExplanation>
     </ling>, <ling>
       <lingText>ми́ти</lingText>
-      <lingExplanation><ukrainian>ми́ти</ukrainian>
-        <gloss>to wash</gloss></lingExplanation>
+      <lingExplanation><gloss>to wash</gloss></lingExplanation>
     </ling>, <ling>
       <lingText>прибира́ти</lingText>
-      <lingExplanation><ukrainian>прибира́ти</ukrainian>
-        <gloss>to pick up things and order the house</gloss></lingExplanation>
+      <lingExplanation><gloss>to pick up things and order the house</gloss></lingExplanation>
     </ling>!.. <ling>
       <lingText>Па́нночки</lingText>
       <lingExplanation><ukrainian>па́нночка</ukrainian>
@@ -327,8 +308,7 @@
         <gloss>It seems (to me)</gloss></lingExplanation>
     </ling>, і не <ling>
       <lingText>змалюва́ти</lingText>
-      <lingExplanation><ukrainian>змалюва́ти</ukrainian>
-        <gloss>to paint</gloss></lingExplanation>
+      <lingExplanation><gloss>to paint</gloss></lingExplanation>
     </ling> тако́ї <ling>
       <lingText>кра́лі</lingText>
       <lingExplanation><ukrainian>кра́ля</ukrainian>
@@ -446,8 +426,7 @@
           recount</gloss></lingExplanation>
     </ling>, я́к <ling>
       <lingText>ну́дно</lingText>
-      <lingExplanation><ukrainian>ну́дно</ukrainian>
-        <gloss>boring</gloss></lingExplanation>
+      <lingExplanation><gloss>boring</gloss></lingExplanation>
     </ling> було́ ї́й <ling>
       <lingText>вчи́тися</lingText>
       <lingExplanation><ukrainian>учи́тися</ukrainian>
@@ -488,8 +467,7 @@
         <gloss>foul</gloss></lingExplanation>
     </ling>, а <ling>
       <lingText>гро́ші</lingText>
-      <lingExplanation><ukrainian>гро́ші</ukrainian>
-        <gloss>money, coins</gloss></lingExplanation>
+      <lingExplanation><gloss>money, coins</gloss></lingExplanation>
     </ling> бра́ли хоро́ші. Па́нночка <ling>
       <lingText>заспіва́ла</lingText>
       <lingExplanation><ukrainian>заспіва́ти</ukrainian>
@@ -523,16 +501,13 @@
     </ling>
     <ling>
       <lingText>ви́конати</lingText>
-      <lingExplanation><ukrainian>ви́конати</ukrainian> to<gloss> fulfill, accomplish,
-          effectuate</gloss></lingExplanation>
+      <lingExplanation><gloss>to fulfill, accomplish, effectuate</gloss></lingExplanation>
     </ling> її́ <ling>
       <lingText>проха́ння</lingText>
-      <lingExplanation><ukrainian>проха́ння</ukrainian>
-        <gloss>request, entreaty, petition</gloss></lingExplanation>
+      <lingExplanation><gloss>request, entreaty, petition</gloss></lingExplanation>
     </ling>: «Ти́ в ме́не бу́деш <ling>
       <lingText>царі́вна</lingText>
-      <lingExplanation><ukrainian>царі́вна</ukrainian>
-        <gloss>princess</gloss></lingExplanation>
+      <lingExplanation><gloss>princess</gloss></lingExplanation>
     </ling> на́д па́нночками!»</p>
   <p abridgement="true">Стара́ па́ні <ling>
       <lingText>підвела́</lingText>
@@ -561,8 +536,7 @@
         <gloss>to satisfy, appease, content (calm down)</gloss></lingExplanation>
     </ling> ї́х, <ling>
       <lingText>ка́жучи</lingText>
-      <lingExplanation><ukrainian>ка́жучи</ukrainian>
-        <gloss>saying</gloss></lingExplanation>
+      <lingExplanation><gloss>saying</gloss></lingExplanation>
     </ling>, <ling>
       <lingText>що від до́лі не втече́ш</lingText>
       <lingExplanation><ukrainian>до́ля</ukrainian>
@@ -571,10 +545,9 @@
           <gloss>that you can’t escape your fate</gloss>.</lingExplanation>
     </ling>, а <ling>
       <lingText>вті́м</lingText>
-      <lingExplanation><ukrainian>вті́м</ukrainian>
-        <gloss>Here, and moreover</gloss> (also <ukrainian>потім</ukrainian>; <ukrainian>тим
-          часом</ukrainian>; <ukrainian>проте</ukrainian>)</lingExplanation>
-    </ling> , я́к воно́ бу́де, ще́ <ling>
+      <lingExplanation><gloss>here, and moreover</gloss> (also <ukrainian>потім</ukrainian>;
+          <ukrainian>тим часом</ukrainian>; <ukrainian>проте</ukrainian>)</lingExplanation>
+    </ling>, я́к воно́ бу́де, ще́ <ling>
       <lingText>невідо́мо</lingText>
       <lingExplanation><gloss>it is not known</gloss> (adv. impers.)</lingExplanation>
     </ling>. Сама́ ж ді́вчи́на <ling>
@@ -589,9 +562,8 @@
     </ling>
     <ling>
       <lingText>розбира́ти</lingText>
-      <lingExplanation><ukrainian>розбира́ти</ukrainian>
-        <gloss>to undress; to undo, take apart (down, asunder), disjoin: to pull down; to
-          comprehend, examine</gloss></lingExplanation>
+      <lingExplanation><gloss>to undress; to undo, take apart (down, asunder), disjoin: to pull
+          down; to comprehend, examine</gloss></lingExplanation>
     </ling> па́нночку. <ling>
       <lingText>Зайшо́вши</lingText>
       <lingExplanation><ukrainian>зайти́</ukrainian>
@@ -613,7 +585,7 @@
         <gloss>to root, to turn up the earth with a snout [as a pig does]</gloss>)</lingExplanation>
     </ling>. Вона́ <ling>
       <lingText>серди́то</lingText>
-      <lingExplanation><ukrainian>серди́то</ukrainian> adverb of <ukrainian>серди́тий</ukrainian>
+      <lingExplanation>adverb of <ukrainian>серди́тий</ukrainian>
         <gloss>angrily, wrathfully</gloss></lingExplanation>
     </ling>
     <ling>
@@ -626,8 +598,7 @@
         <gloss>to run</gloss></lingExplanation>
     </ling>, і <ling>
       <lingText>поки́</lingText>
-      <lingExplanation><ukrainian>поки́</ukrainian>
-        <gloss>as long as, so long as, till, while, until</gloss></lingExplanation>
+      <lingExplanation><gloss>as long as, so long as, till, while, until</gloss></lingExplanation>
     </ling> Усти́на її́ розбира́ла, <ling>
       <lingText>вве́сь</lingText>
       <lingExplanation><ukrainian>ввесь</ukrainian>
@@ -654,16 +625,14 @@
     </ling>
     <ling>
       <lingText>роззува́ти</lingText>
-      <lingExplanation><ukrainian>роззува́ти</ukrainian>
-        <gloss>to unshoe, pull off shoes</gloss></lingExplanation>
+      <lingExplanation><gloss>to unshoe, pull off shoes</gloss></lingExplanation>
     </ling>, а <ling>
       <lingText>дізна́вшися</lingText>
       <lingExplanation><ukrainian>дізна́тися</ukrainian>
         <gloss>to learn, find out get information</gloss> (note: gerund)</lingExplanation>
     </ling>, що її́ нова́ <ling>
       <lingText>служни́ця</lingText>
-      <lingExplanation><ukrainian>служни́ця</ukrainian>
-        <gloss>maidservant, housemaid</gloss></lingExplanation>
+      <lingExplanation><gloss>maidservant, housemaid</gloss></lingExplanation>
     </ling> не <ling>
       <lingText>вмі́є</lingText>
       <lingExplanation><ukrainian>умі́ти</ukrainian>
@@ -689,8 +658,7 @@
     </ling>
     <ling>
       <lingText>ге́ть</lingText>
-      <lingExplanation><ukrainian>ге́ть</ukrainian>
-        <gloss>leave, get out</gloss></lingExplanation>
+      <lingExplanation><gloss>leave, get out</gloss></lingExplanation>
     </ling>.</p>
   <p abridgement="true">Прийшла́ Усти́на від па́нночки, а ді́вча́та ста́ли запи́тувати, яка́ ж
     вона́. Усти́на сказа́ла ї́м про се́бе, що дурна́, бо не вмі́є « <ling>
@@ -705,8 +673,7 @@
     </ling>
     <ling>
       <lingText>ра́но-ране́сенько</lingText>
-      <lingExplanation><ukrainian>ра́но-ране́сенько</ukrainian>
-        <gloss>rather early, at daybreak</gloss></lingExplanation>
+      <lingExplanation><gloss>rather early, at daybreak</gloss></lingExplanation>
     </ling>, <ling>
       <lingText>прибра́лася</lingText>
       <lingExplanation><ukrainian>прибра́тися</ukrainian>
@@ -717,12 +684,10 @@
         <gloss>to go around</gloss></lingExplanation>
     </ling> все́ <ling>
       <lingText>подві́р’я</lingText>
-      <lingExplanation><ukrainian>подві́р’я</ukrainian>
-        <gloss>yard, courtyard, backyard</gloss></lingExplanation>
+      <lingExplanation><gloss>yard, courtyard, backyard</gloss></lingExplanation>
     </ling>, <ling>
       <lingText>садо́к</lingText>
-      <lingExplanation><ukrainian>садо́к</ukrainian>
-        <gloss>small orchard</gloss></lingExplanation>
+      <lingExplanation><gloss>small orchard</gloss></lingExplanation>
     </ling> і ста́ла пита́ти свою́ бабу́сю, коли́ вже́ вони́ <ling>
       <lingText>пої́дуть</lingText>
       <lingExplanation><ukrainian>пої́хати</ukrainian>
@@ -741,21 +706,17 @@
         <gloss>to get, obtain, procure, reach</gloss></lingExplanation>
     </ling> зі <ling>
       <lingText>скри́нь</lingText>
-      <lingExplanation><ukrainian>скри́нь</ukrainian>
-        <gloss>chest, little box</gloss></lingExplanation>
+      <lingExplanation><gloss>chest, little box</gloss></lingExplanation>
     </ling>
     <ling>
       <lingText>оксами́т</lingText>
-      <lingExplanation><ukrainian>оксами́т</ukrainian>
-        <gloss>velvet</gloss></lingExplanation>
+      <lingExplanation><gloss>velvet</gloss></lingExplanation>
     </ling> та <ling>
       <lingText>шовки́</lingText>
-      <lingExplanation><ukrainian>шовки́</ukrainian>
-        <gloss>silks</gloss></lingExplanation>
+      <lingExplanation><gloss>silks</gloss></lingExplanation>
     </ling>, ста́ли <ling>
       <lingText>кро́їти</lingText>
-      <lingExplanation><ukrainian>кро́їти</ukrainian>
-        <gloss>to cut, cut out (of garments)</gloss></lingExplanation>
+      <lingExplanation><gloss>to cut, cut out (of garments)</gloss></lingExplanation>
     </ling> та <ling>
       <lingText>приміря́ти</lingText>
       <lingExplanation><ukrainian>примі́рити</ukrainian>
@@ -791,8 +752,7 @@
         <gloss>to wait, stay longe</gloss>r</lingExplanation>
     </ling>, бо <ling>
       <lingText>невдо́взі</lingText>
-      <lingExplanation><ukrainian>невдо́взі</ukrainian>
-        <gloss>shortly, in a short while</gloss></lingExplanation>
+      <lingExplanation><gloss>shortly, in a short while</gloss></lingExplanation>
     </ling>
     <ling>
       <lingText>наї́де тако́го, що й не пото́вплються</lingText>
@@ -811,8 +771,7 @@
         <gloss>to turn</gloss></lingExplanation>
     </ling> все́ на сві́й <ling>
       <lingText>ла́д</lingText>
-      <lingExplanation><ukrainian>ла́д</ukrainian>
-        <gloss>order</gloss></lingExplanation>
+      <lingExplanation><gloss>order</gloss></lingExplanation>
     </ling>. Бабу́сі <ling>
       <lingText>заборони́ла</lingText>
       <lingExplanation><ukrainian>заборони́ти</ukrainian>
@@ -820,12 +779,10 @@
     </ling>
     <ling>
       <lingText>плести́</lingText>
-      <lingExplanation><ukrainian>плести́</ukrainian>
-        <gloss>to knit</gloss></lingExplanation>
+      <lingExplanation><gloss>to knit</gloss></lingExplanation>
     </ling>, бо пе́ред гостя́ми <ling>
       <lingText>со́ромно</lingText>
-      <lingExplanation><ukrainian>со́ромно</ukrainian>
-        <gloss>shameful</gloss></lingExplanation>
+      <lingExplanation><gloss>shameful</gloss></lingExplanation>
     </ling>, тому́ <ling>
       <lingText>ну́ди́лася</lingText>
       <lingExplanation><ukrainian>ну́ди́латися</ukrainian>
@@ -836,9 +793,8 @@
         <gloss>corner</gloss></lingExplanation>
     </ling>.</p>
   <p abridgement="true">Ді́вча́т <ling>
-      <lingText>взагалі́ </lingText>
-      <lingExplanation><ukrainian>взагалі́</ukrainian>
-        <gloss>altogether, above all in general</gloss></lingExplanation>
+      <lingText>взагалі́</lingText>
+      <lingExplanation><gloss>altogether, above all in general</gloss></lingExplanation>
     </ling> не <ling>
       <lingText>ми́лувала</lingText>
       <lingExplanation><ukrainian>ми́лувати</ukrainian>
@@ -850,8 +806,7 @@
     </ling>
     <ling>
       <lingText>гаптува́ти</lingText>
-      <lingExplanation><ukrainian>гаптува́ти</ukrainian>
-        <gloss>to embroider</gloss></lingExplanation>
+      <lingExplanation><gloss>to embroider</gloss></lingExplanation>
     </ling>, а вона́ все́ <ling>
       <lingText>перевіря́ла</lingText>
       <lingExplanation><ukrainian>переві́ряти</ukrainian>
@@ -862,16 +817,14 @@
         <gloss>to become (grow) angry, fly into a passion</gloss></lingExplanation>
     </ling> на́віть, коли́ йшли́ <ling>
       <lingText>обі́дати</lingText>
-      <lingExplanation><ukrainian>обі́дати</ukrainian>
-        <gloss>to dine, lunch, have lunch (dinner)</gloss></lingExplanation>
+      <lingExplanation><gloss>to dine, lunch, have lunch (dinner)</gloss></lingExplanation>
     </ling>. Поступо́во <ling>
       <lingText>почала́</lingText>
       <lingExplanation><ukrainian>поча́ти</ukrainian>
         <gloss>to begin, commence, start</gloss></lingExplanation>
     </ling> ї́х <ling>
       <lingText>шту́рха́ти</lingText>
-      <lingExplanation><ukrainian>шту́рха́ти</ukrainian>
-        <gloss>to push, elbow</gloss></lingExplanation>
+      <lingExplanation><gloss>to push, elbow</gloss></lingExplanation>
     </ling>, а по́тім і би́ти. <ling>
       <lingText>Залиша́ла</lingText>
       <lingExplanation><ukrainian>залиша́ти</ukrainian>
