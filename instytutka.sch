@@ -12,8 +12,12 @@
         characters.</sch:report>
     </sch:rule>
     <sch:rule context="ukrainian">
-      <sch:assert test="matches(., '[\p{IsCyrillic}]')">A &lt;ukrainian&gt; element must contain
-        Cyrillic characters</sch:assert>
+      <sch:assert test="matches(., '[\p{IsCyrillic}]')">A &lt;ukrainian&gt; element must contain at
+        least some Cyrillic characters</sch:assert>
+    </sch:rule>
+    <sch:rule context="gloss">
+      <sch:assert test="matches(., '[\p{IsBasicLatin}]')">A &lt;gloss&gt; element must contain at least
+        some Latin characters</sch:assert>
     </sch:rule>
     <sch:rule context="lingText">
       <sch:report test="ends-with(., ' ')">&lt;lingText&gt; must not end in a space
