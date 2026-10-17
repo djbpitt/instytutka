@@ -16,35 +16,14 @@
         <title>
           <xsl:value-of select="'Chapter', chapter/@n"/>
         </title>
-        <style type="text/css">
-          :root {
-            background-color: lightyellow;
-            color: black;
-            --faded: gray;
-          }
-          body {
-            display: flex;
-            flex-direction: row;
-          }
-          #reading {
-            flex: 1;
-            min-width: 0; /* lets content shrink without overflowing */
-          }
-          
-          #ling {
-            flex: 0 0 360px; /* fixed width */
-          }
-          .ukrainian {
-            font-style: italic;
-          }
-          .abridged {
-            color: var(--faded);
-          }</style>
+        <link rel="stylesheet" type="text/css" href="instytutka.css"/>
+        <script type="text/javascript" src="instytutka.js" defer="defer"/>
       </head>
       <body>
         <section id="reading">
           <xsl:apply-templates mode="reading"/>
         </section>
+        <div id="divider"/>
         <section id="ling">
           <xsl:apply-templates mode="ling" select="descendant::ling"/>
         </section>
@@ -55,13 +34,16 @@
   <!-- Reading mode: create reading text, with links to ling              -->
   <!-- ================================================================== -->
   <xsl:template match="ling" mode="reading">
-    <xsl:apply-templates select="lingText"/>
+    <xsl:apply-templates select="lingText" mode="reading"/>
   </xsl:template>
   <xsl:template match="lingText" mode="reading">
-    <xsl:apply-templates/>
+    <a href="#l-{generate-id()}" id="r-{generate-id()}">
+      <xsl:apply-templates/>
+    </a>
   </xsl:template>
   <!-- ================================================================== -->
   <!-- Ling mode: create ling panel, with links back to reading           -->
+  <!-- l- = ling, r- = reading (not left and right!)                      -->
   <!-- ================================================================== -->
   <xsl:template match="ling" mode="ling">
     <p>
@@ -70,7 +52,9 @@
   </xsl:template>
   <xsl:template match="lingText" mode="ling">
     <b>
-      <xsl:apply-templates/>
+      <a href="#r-{generate-id()}" id="l-{generate-id()}">
+        <xsl:apply-templates/>
+      </a>
     </b>
   </xsl:template>
   <!-- ================================================================== -->
