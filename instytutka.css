@@ -29,6 +29,8 @@ body > section { /* for scrolling */
   cursor: ew-resize;
   transition: background 0.2s;
   flex-shrink: 0; /* Ensures the divider itself never squishes */
+  /* Uncomment the line below to support drag resizing in mobile */
+  /* touch-action: none;*/
 }
 #divider:hover {
   background: #888;
