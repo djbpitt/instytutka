@@ -11,8 +11,6 @@ body { /* for scrolling */
 body {
   display: flex;
   flex-direction: row;
-  /* Prevent text selection flicker while dragging */
-  user-select: none;
 }
 body > section { /* for scrolling */
   min-height: 0;
@@ -20,7 +18,7 @@ body > section { /* for scrolling */
   overflow-y: auto;
   min-width: 0; /* disable default auto, so all width is from JS */
   box-sizing: border-box;
-  padding: 1em;
+  padding: .5em 1em;
 }
 #reading {
   flex: 1;

@@ -4,45 +4,44 @@ document.addEventListener('DOMContentLoaded', () => {
   const leftPanel = document.getElementById('reading');
   const rightPanel = document.getElementById('ling');
   
-  // Track the currently highlighted elements in *both* panels
-  let activeReadingElement = null;
-  let activeLingElement = null;
-  
   if (! divider || ! leftPanel || ! rightPanel) {
     console.error("Layout elements not found!");
     return;
   }
   
-  divider.addEventListener('mousedown', (e) => {
+  // --- Modern Pointer Capture Resizing ---
+  divider.addEventListener('pointerdown', (e) => {
     e.preventDefault();
-    
-    const onMouseMove = (e) => {
-      const containerRect = container.getBoundingClientRect();
-      let leftWidth = e.clientX - containerRect.left;
-      let totalWidth = containerRect.width;
-      
-      let leftPercentage = (leftWidth / totalWidth) * 100;
-      leftPercentage = Math.max(15, Math.min(85, leftPercentage));
-      let rightPercentage = 100 - leftPercentage;
-      
-      leftPanel.style.flex = `0 0 ${leftPercentage}%`;
-      rightPanel.style.flex = `0 0 ${rightPercentage}%`;
-    };
-    
-    const onMouseUp = () => {
-      document.removeEventListener('mousemove', onMouseMove);
-      document.removeEventListener('mouseup', onMouseUp);
-      divider.classList.remove('is-dragging');
-    };
-    
-    document.addEventListener('mousemove', onMouseMove);
-    document.addEventListener('mouseup', onMouseUp);
-    divider.classList.add('is-dragging');
+    // Captures all pointer events so selection/flicker outside the divider stops
+    divider.setPointerCapture(e.pointerId);
   });
   
-  // Intercept clicks on links/fragments in *either* panel
-  // Intercept clicks on links/fragments in *either* panel
-  // Intercept clicks on links/fragments in *either* panel
+  divider.addEventListener('pointermove', (e) => {
+    // Only resize if the pointer is actively captured (prevents moving on simple hover)
+    if (! divider.hasPointerCapture(e.pointerId)) return;
+    
+    const containerRect = container.getBoundingClientRect();
+    let leftWidth = e.clientX - containerRect.left;
+    let totalWidth = containerRect.width;
+    
+    let leftPercentage = (leftWidth / totalWidth) * 100;
+    leftPercentage = Math.max(15, Math.min(85, leftPercentage));
+    let rightPercentage = 100 - leftPercentage;
+    
+    leftPanel.style.flex = `0 0 ${leftPercentage}%`;
+    rightPanel.style.flex = `0 0 ${rightPercentage}%`;
+  });
+  
+  divider.addEventListener('pointerup', (e) => {
+    if (divider.hasPointerCapture(e.pointerId)) {
+      divider.releasePointerCapture(e.pointerId);
+    }
+  });
+  
+  // Track the currently highlighted elements in *both* panels
+  let activeReadingElement = null;
+  let activeLingElement = null;
+  
   // Intercept clicks on links/fragments in *either* panel
   document.addEventListener('click', (e) => {
     const link = e.target.closest('a');
@@ -51,20 +50,15 @@ document.addEventListener('DOMContentLoaded', () => {
       e.preventDefault();
       
       const hrefValue = link.getAttribute('href').substring(1);
-      // e.g., "l-d1e7" or "r-d1e7"
       
       let clickedElement = link;
-      let partnerElement, panelToScroll;
+      let partnerElement;
       
       // Determine direction and find the partner element via prefix swapping
       if (hrefValue.startsWith('l-')) {
-        // Clicked in #reading, targeting #ling
         partnerElement = rightPanel.querySelector(`#${CSS.escape(hrefValue)}`);
-        panelToScroll = rightPanel;
       } else if (hrefValue.startsWith('r-')) {
-        // Clicked in #ling, targeting #reading
         partnerElement = leftPanel.querySelector(`#${CSS.escape(hrefValue)}`);
-        panelToScroll = leftPanel;
       }
       
       if (partnerElement) {
