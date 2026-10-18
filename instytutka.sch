@@ -4,13 +4,13 @@
   <sch:pattern>
     <sch:rule context="gloss | ukrainian | lingText | lingExplanation">
       <sch:report test="string-length(normalize-space(.)) ne 0 and starts-with(., ' ')">A
-          <sch:value-of select="name(.)"/> element should not begin with a space
+          <sch:value-of select="name(.)"/> element must not begin with a space
         character.</sch:report>
       <sch:report test="
           string-length(normalize-space(.)) ne 0 and
           ends-with(., ' ') and
           node()[last()][normalize-space(.) ne '']">A <sch:value-of select="name(.)"/> element
-        should not end with a space character.</sch:report>
+        must not end with a space character.</sch:report>
     </sch:rule>
   </sch:pattern>
   <sch:pattern>
@@ -24,10 +24,10 @@
         characters.</sch:report>
     </sch:rule>
     <sch:rule context="ukrainian">
-      <sch:assert test="matches(., '[\p{IsCyrillic}]')">A &lt;ukrainian&gt; element must contain at
-        least some Cyrillic characters</sch:assert>
+      <sch:assert test="matches(., '^[ :’,!…\n\(\)\-&#x0301;\p{IsCyrillic}]+$')">A &lt;ukrainian&gt;
+        element must contain only Cyrillic characters and selected punctuation</sch:assert>
       <sch:report test="following-sibling::node()[1][self::text()][matches(., '^[\isLetter]')]">A
-        &lt;ukrainian&gt; element should not be followed immediately by a letter.</sch:report>
+        &lt;ukrainian&gt; element must not be followed immediately by a letter.</sch:report>
     </sch:rule>
     <sch:rule context="gloss">
       <sch:assert test="matches(., '[\p{IsBasicLatin}]')">A &lt;gloss&gt; element must contain at
@@ -36,6 +36,8 @@
     <sch:rule context="lingText">
       <sch:report test="ends-with(., ' ')">&lt;lingText&gt; must not end in a space
         character</sch:report>
+      <sch:assert test="matches(., '^[ :’,!…\n\(\)\-&#x0301;\p{IsCyrillic}]+$')">A &lt;lingText&gt;
+        element must contain only Cyrillic characters and selected punctuation</sch:assert>
     </sch:rule>
     <sch:rule context="lingExplanation">
       <sch:let name="last" value="node()[last()][self::text()]"/>
