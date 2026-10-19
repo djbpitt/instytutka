@@ -36,6 +36,8 @@
     <sch:rule context="lingText">
       <sch:report test="ends-with(., ' ')">&lt;lingText&gt; must not end in a space
         character</sch:report>
+      <sch:report test="matches(., '[\p{P}]$')">&lt;lingText&gt; must not end in a punctuation
+        mark</sch:report>
       <sch:assert test="matches(., '^[ :’,!…\n\(\)\-&#x0301;\p{IsCyrillic}]+$')">A &lt;lingText&gt;
         element must contain only Cyrillic characters and selected punctuation</sch:assert>
     </sch:rule>
