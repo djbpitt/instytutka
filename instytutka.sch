@@ -19,9 +19,9 @@
         whitespace</sch:report>
       <sch:report test='contains(., "&apos;")'>Use curly apostrope (’) instead of straing
         (').</sch:report>
-      <sch:report test="not(following-sibling::node()) and matches(., '\S\s+$')">A text node not
-        followed by a sibling node that contains non-space characters must not end in space
-        characters.</sch:report>
+      <sch:report
+        test="./parent::p and not(./following-sibling::node()) and string-length(normalize-space(.)) eq 0"
+        >This paragraph ends in a space character, which is not allowed.</sch:report>
     </sch:rule>
     <sch:rule context="ukrainian">
       <sch:assert test="matches(., '^[ :’,!…\n\(\)\-&#x0301;\p{IsCyrillic}]+$')">A &lt;ukrainian&gt;
