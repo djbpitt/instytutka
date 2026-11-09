@@ -20,7 +20,7 @@
       <sch:report test='contains(., "&apos;")'>Use curly apostrope (’) instead of straing
         (').</sch:report>
       <sch:report
-        test="./parent::p and not(./following-sibling::node()) and string-length(normalize-space(.)) eq 0"
+        test="./parent::p and not(./following-sibling::node()) and matches(., '\s$') and string-length(normalize-space(.)) ne 0"
         >This paragraph ends in a space character, which is not allowed.</sch:report>
     </sch:rule>
     <sch:rule context="ukrainian">
