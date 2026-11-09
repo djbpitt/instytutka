@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="instytutka.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="instytutka.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<chapter n="8">
+  <p>Одно́го ра́зу <ling>
+      <lingText>дожида́ли</lingText>
+      <lingExplanation><ukrainian>діжида́ти</ukrainian> To wait (until a person or thing
+        arrives)</lingExplanation>
+    </ling> в на́с <ling>
+      <lingText>полкови́х</lingText>
+      <lingExplanation><ukrainian>полкови́й</ukrainian> Officer</lingExplanation>
+    </ling> з мі́ста. Дві́р <ling>
+      <lingText>замели́</lingText>
+      <lingExplanation><ukrainian>заме́сти</ukrainian> To sweep</lingExplanation>
+    </ling> ще́ <ling>
+      <lingText><ukrainian>зве́чора</ukrainian></lingText>
+      <lingExplanation>In the evening</lingExplanation>
+    </ling>; у <ling>
+      <lingText>буди́нку</lingText>
+      <lingExplanation><ukrainian>буди́нок</ukrainian> A building</lingExplanation>
+    </ling>
+    <ling>
+      <lingText>прибра́ли</lingText>
+      <lingExplanation><ukrainian>прибра́ти</ukrainian> To arrange, put (set) in order; garnish, to
+        dress elegantly; to adorn</lingExplanation>
+    </ling>, я́к <ling>
+      <lingText><ukrainian>ік</ukrainian></lingText>
+      <lingExplanation>To, towards (Church-Slavonic for<ukrainian>до</ukrainian>;used in referncee
+        to Easter here</lingExplanation>
+    </ling>
+    <ling>
+      <lingText>велико́дню</lingText>
+      <lingExplanation><ukrainian>вели́кдень</ukrainian> Easter</lingExplanation>
+    </ling>. Сі́ла па́нночка <ling>
+      <lingText><ukrainian>зачі́суватися</ukrainian></lingText>
+      <lingExplanation>To comb, do one's hair up</lingExplanation>
+    </ling>… Ли́шечко ж моє́! <ling>
+      <lingText>Лучче́</lingText>
+      <lingExplanation><ukrainian>краще</ukrainian> It would be better</lingExplanation>
+    </ling> б <ling>
+      <lingText>жа́ру</lingText>
+      <lingExplanation><ukrainian>жа́р</ukrainian> Hot, glowing red</lingExplanation>
+    </ling>
+    <ling>
+      <lingText><ukrainian>черво́ного</ukrainian></lingText>
+      <lingExplanation>Hot coals</lingExplanation>
+    </ling> у ру́ку набра́ла, я́к мені́ <ling>
+      <lingText>довело́ся</lingText>
+      <lingExplanation><ukrainian>дове́сти́ся</ukrainian> To happen, occur</lingExplanation>
+    </ling>
+    <ling>
+      <lingText><ukrainian>тумані́ти</ukrainian></lingText>
+      <lingExplanation>To be struck dumb</lingExplanation>
+    </ling> ко́ло її́ ру́сої <ling>
+      <lingText>коси́</lingText>
+      <lingExplanation><ukrainian>коса́</ukrainian> Braid</lingExplanation>
+    </ling>!.. І така́, і онака́, і <ling>
+      <lingText><ukrainian>ге́ть-прі́ч</ukrainian></lingText>
+      <lingExplanation>Out, away</lingExplanation>
+    </ling> пішла́, і <ling>
+      <lingText><ukrainian>зно́в</ukrainian></lingText>
+      <lingExplanation>Again</lingExplanation>
+    </ling> сюди́ <ling>
+      <lingText>поступа́й</lingText>
+      <lingExplanation><ukrainian>поступа́ти</ukrainian> To advance, proceed; to make progress; to
+        come (drop) in</lingExplanation>
+    </ling>; і <ling>
+      <lingText><ukrainian>пха́ти</ukrainian></lingText>
+      <lingExplanation>To push, thrust, poke</lingExplanation>
+    </ling> мене́, і <ling>
+      <lingText><ukrainian>наска́кувати</ukrainian></lingText>
+      <lingExplanation>To jump (spring) upon or onto; to strike upon (against)</lingExplanation>
+    </ling> на ме́не, — а́ж я́ <ling>
+      <lingText>зляка́лась</lingText>
+      <lingExplanation><ukrainian>зляка́тися</ukrainian> To be frightened</lingExplanation>
+    </ling>! Та <ling>
+      <lingText>репе́че</lingText>
+      <lingExplanation><ukrainian>репе́тіти</ukrainian> To scream, wail</lingExplanation>
+    </ling>, та <ling>
+      <lingText>дзвякоти́ть</lingText>
+      <lingExplanation><ukrainian>дзвякоті́ти</ukrainian> To produce a metallic sound, to
+        clang</lingExplanation>
+    </ling>, та <ling>
+      <lingText>тупо́че-тупо́че</lingText>
+      <lingExplanation>from<ukrainian>тупота́ти</ukrainian> [to stamp with (one’s) feet]:
+        stomp-stomp</lingExplanation>
+    </ling>, а <ling>
+      <lingText><ukrainian>да́лі</ukrainian></lingText>
+      <lingExplanation>Then, afterwards, soon</lingExplanation>
+    </ling> я́к <ling>
+      <lingText><ukrainian>запла́че</ukrainian></lingText>
+      <lingExplanation>To begin to cry</lingExplanation>
+    </ling>!.. Я́ в две́рі, а вона́ за мно́ю в са́д: <ling>
+      <lingText><ukrainian>Я тебе́ на шматки́ розірву́</ukrainian></lingText>
+      <lingExplanation>The phrase<ukrainian>Я тебе́ на шматки́ розірву́</ukrainian> means <gloss>I
+          will tear you to pieces! (literally “to rags”)</gloss></lingExplanation>
+    </ling>! <ling>
+      <lingText>Задушу́</lingText>
+      <lingExplanation><ukrainian>задуши́ти</ukrainian> To strangle</lingExplanation>
+    </ling> тебе́, <ling>
+      <lingText>га́дино</lingText>
+      <lingExplanation><ukrainian>га́дина</ukrainian> Serpent, snake</lingExplanation>
+    </ling>!» <ling>
+      <lingText>Огля́нусь</lingText>
+      <lingExplanation><ukrainian>огля́нутися</ukrainian> To look back (about); to rely
+        upon</lingExplanation>
+    </ling> я́ на не́ї, — <ling>
+      <lingText>страшна́</lingText>
+      <lingExplanation><ukrainian>страшни́й</ukrainian> Terrible, frightful, terrifying,
+        dreadful</lingExplanation>
+    </ling> така́ <ling>
+      <lingText>зроби́лась</lingText>
+      <lingExplanation><ukrainian>зроби́тися</ukrainian> To become</lingExplanation>
+    </ling>, що в ме́не й но́ги <ling>
+      <lingText>захита́лись</lingText>
+      <lingExplanation><ukrainian>захита́тися</ukrainian> To shake, stagger</lingExplanation>
+    </ling>. Вона́ мене́ я́к <ling>
+      <lingText>схо́пить</lingText>
+      <lingExplanation><ukrainian>схопи́ти</ukrainian> To seize, grasp</lingExplanation>
+    </ling> за <ling>
+      <lingText>ши́ю</lingText>
+      <lingExplanation><ukrainian>ши́я</ukrainian> Neck</lingExplanation>
+    </ling>
+    <ling>
+      <lingText><ukrainian>обіру́ч</ukrainian></lingText>
+      <lingExplanation>With both hands</lingExplanation>
+    </ling>!.. Ру́ки холо́дні, я́к <ling>
+      <lingText>гадю́ки</lingText>
+      <lingExplanation>See <ukrainian>га́дина</ukrainian> above</lingExplanation>
+    </ling>. Хо́чу <ling>
+      <lingText><ukrainian>скрича́ти</ukrainian></lingText>
+      <lingExplanation>To begin to shout</lingExplanation>
+    </ling>, — <ling>
+      <lingText><ukrainian>ду́х</ukrainian></lingText>
+      <lingExplanation>Soul, spirit</lingExplanation>
+    </ling> мені́ <ling>
+      <lingText>захопи́ло</lingText>
+      <lingExplanation><ukrainian>захопи́ти</ukrainian> To seize, snatch; to catch unawares,
+        surprise; to enrapture</lingExplanation>
+    </ling>, та́к і ру́хнула ко́ло я́блуні, та вже́ <ling>
+      <lingText>од</lingText>
+      <lingExplanation>same as<ukrainian>від</ukrainian> From</lingExplanation>
+    </ling>
+    <ling>
+      <lingText>Ду́х мені́ захопи́ло, та́к і ру́хнула ко́ло яблу́ні, та вже́ од холо́дної води́
+        проки́нулась</lingText>
+      <lingExplanation><ukrainian>ду́х</ukrainian>
+        <gloss>Soul, spirit</gloss>. <ukrainian>захопи́ти</ukrainian><gloss>To seize, snatch; to
+          catch unawares, surprise; to enrapture</gloss>. The phrase <ukrainian>Ду́х мені́
+          захопи́ло, та́к і ру́хнула ко́ло яблу́ні, та вже́ од холо́дної води́
+          проки́нулась</ukrainian> means<gloss>My breath had been taken away, I collapsed near the
+          apple tree, and I only woke up from cold water</gloss>.</lingExplanation>
+    </ling> Дивлю́ся — ді́вча́та ко́ло ме́не <ling>
+      <lingText>ску́пчилися</lingText>
+      <lingExplanation><ukrainian>ску́пчитися</ukrainian> To crowd, gather in crowds,
+        flock</lingExplanation>
+    </ling>, <ling>
+      <lingText>бі́лі</lingText>
+      <lingExplanation><ukrainian>білий</ukrainian> White</lingExplanation>
+    </ling> усі́ я́к <ling>
+      <lingText><ukrainian>кре́йда</ukrainian></lingText>
+      <lingExplanation>Chalk</lingExplanation>
+    </ling>. Па́нночка на <ling>
+      <lingText>сті́льчику</lingText>
+      <lingExplanation><ukrainian>сті́льчик</ukrainian> Footstool</lingExplanation>
+    </ling>
+    <ling>
+      <lingText>розки́нулась</lingText>
+      <lingExplanation><ukrainian>розки́нутися</ukrainian> To be spread (stretched)
+        out</lingExplanation>
+    </ling>, пла́че; а стара́ над моє́ю голово́ю стої́ть і та́к-то вже́ мене́ <ling>
+      <lingText>ла́є</lingText>
+      <lingExplanation><ukrainian>ла́яти</ukrainian> To scold</lingExplanation>
+    </ling>, така́ вже́ <ling>
+      <lingText>лю́та</lingText>
+      <lingExplanation><ukrainian>лю́тий</ukrainian> Fierce, severe</lingExplanation>
+    </ling>, — <ling>
+      <lingText><ukrainian>а́ж</ukrainian></lingText>
+      <lingExplanation>Totally</lingExplanation>
+    </ling> ї́й у ро́ті чо́рно.</p>
+  <p>«Що́ ти́ <ling>
+      <lingText>нако́їла</lingText>
+      <lingExplanation><ukrainian>нако́їти</ukrainian> To cause, do</lingExplanation>
+    </ling>, <ling>
+      <lingText><ukrainian>леда́що</ukrainian></lingText>
+      <lingExplanation>Lazy person, worthless person</lingExplanation>
+    </ling>! Я́к ти́ смі́ла па́нночку <ling>
+      <lingText>гніви́ти</lingText>
+      <lingExplanation><ukrainian>гні́вати</ukrainian> To make angry, vex,
+        irritate</lingExplanation>
+    </ling>? Я́ тебе́ на Сибі́р зашлю́! я́ тебе́ з сві́ту <ling>
+      <lingText>зжену́</lingText>
+      <lingExplanation><ukrainian>зігна́ти</ukrainian> To drive off</lingExplanation>
+    </ling>!» А па́нночку <ling>
+      <lingText>вмовля́є</lingText>
+      <lingExplanation><ukrainian>умо́вити</ukrainian> To persuade, induce</lingExplanation>
+    </ling>: «Не пла́ч, не пла́ч, <ling>
+      <lingText>янголя́точко</lingText>
+      <lingExplanation><ukrainian>я́нгол</ukrainian> Little angel, pretty little
+        angel</lingExplanation>
+    </ling> моє́: слі́з твої́х вона́ не го́дна! Ще́ <ling>
+      <lingText>занеду́жаєш</lingText>
+      <lingExplanation><ukrainian>занеду́жати</ukrainian> To fall or become ill</lingExplanation>
+    </ling>, Бо́же <ling>
+      <lingText>бо́рони</lingText>
+      <lingExplanation><ukrainian>борони́ти</ukrainian> To forbid, prohibit</lingExplanation>
+    </ling> чого́! Ба́ч, ру́ченьки холодні́сінькі. <ling>
+      <lingText><ukrainian>Бу́де-бо вже́, бу́де</ukrainian></lingText>
+      <lingExplanation><gloss>“there there” (in comforting a child)</gloss></lingExplanation>
+    </ling>! Нащо́ сама́ <ling>
+      <lingText>бере́шся</lingText>
+      <lingExplanation><ukrainian>бра́тися</ukrainian> To begin, undertake, set
+        about</lingExplanation>
+    </ling>? Мені́ <ling>
+      <lingText>вно́сь</lingText>
+      <lingExplanation><ukrainian>вне́сти</ukrainian> To bring (carry) in</lingExplanation>
+    </ling>, що́ тобі́ не <ling>
+      <lingText>вго́дно</lingText>
+      <lingExplanation><ukrainian>уго́дно</ukrainian> Comfortably, conveniently</lingExplanation>
+    </ling>. А тобі́, леда́щице (зно́в <ling>
+      <lingText>сва́риться</lingText>
+      <lingExplanation><ukrainian>свари́тися</ukrainian> To quarrel (with one); to
+        scold</lingExplanation>
+    </ling> на ме́не), — а тобі́ бу́де!»</p>
+  <p>Та й не зна́ю, я́к ще́ дру́гої <ling>
+      <lingText><ukrainian>біди́</ukrainian></lingText>
+      <lingExplanation>Misfortune, misery, distress</lingExplanation>
+    </ling>
+    <ling>
+      <lingText>вбі́гла</lingText>
+      <lingExplanation><ukrainian>вбі́гти</ukrainian> To run into, to escape</lingExplanation>
+    </ling>, що мене́ не <ling>
+      <lingText>би́то</lingText>
+      <lingExplanation><ukrainian>би́ти</ukrainian> to beat, hit, strike<gloss>[note: past passive
+          participle]</gloss></lingExplanation>
+    </ling>. <ling>
+      <lingText><ukrainian>Ма́буть</ukrainian></lingText>
+      <lingExplanation>Perhaps, probably, likely, apparently</lingExplanation>
+    </ling>, того́, що вже́ ду́же була́ я́ <ling>
+      <lingText>слаба́</lingText>
+      <lingExplanation><ukrainian>слаби́й</ukrainian> Weak</lingExplanation>
+    </ling>, — та́к па́ні <ling>
+      <lingText><ukrainian>ті́льки</ukrainian></lingText>
+      <lingExplanation>Only, merely, but</lingExplanation>
+    </ling> ного́ю мене́ <ling>
+      <lingText>відіпхну́ла</lingText>
+      <lingExplanation><ukrainian>відіпхну́ти</ukrainian> To push, shove away</lingExplanation>
+    </ling> та за́раз і <ling>
+      <lingText>звелі́ла</lingText>
+      <lingExplanation><ukrainian>звелі́ти</ukrainian> To order, command, request</lingExplanation>
+    </ling> ді́вча́там до <ling>
+      <lingText>ха́ти</lingText>
+      <lingExplanation><ukrainian>ха́та</ukrainian> Little house</lingExplanation>
+    </ling>
+    <ling>
+      <lingText>однести́</lingText>
+      <lingExplanation><ukrainian>відне́сти</ukrainian> To carry back again</lingExplanation>
+    </ling>.</p>
+  <p>Ді́вча́та <ling>
+      <lingText>підняли́</lingText>
+      <lingExplanation><ukrainian>підня́ти</ukrainian> To raise, lift up, pick up</lingExplanation>
+    </ling> мене́ й <ling>
+      <lingText>понесли́</lingText>
+      <lingExplanation><ukrainian>понести́</ukrainian> To carry to a place</lingExplanation>
+    </ling>, а в ха́ті та́к і <ling>
+      <lingText>впа́ли</lingText>
+      <lingExplanation><ukrainian>упада́ти</ukrainian> To fall or drop (down)</lingExplanation>
+    </ling> ко́ло ме́не <ling>
+      <lingText>пла́чучи</lingText>
+      <lingExplanation><ukrainian>пла́кати</ukrainian> To weep, cry, lament</lingExplanation>
+    </ling>: «Усти́но, <ling>
+      <lingText><ukrainian>се́рденько</ukrainian></lingText>
+      <lingExplanation>Little heart!</lingExplanation>
+    </ling>! <ling>
+      <lingText><ukrainian>Опла́кана</ukrainian></lingText>
+      <lingExplanation>Worthy of tears</lingExplanation>
+    </ling>
+    <ling>
+      <lingText>годи́нонька</lingText>
+      <lingExplanation><ukrainian>годи́нник</ukrainian> Precious hour, hour of
+        birth</lingExplanation>
+    </ling> твоя́!.. Ма́ти Бо́жа! За що́ <ling>
+      <lingText><ukrainian>се</ukrainian></lingText>
+      <lingExplanation>This<gloss>same as</gloss><ukrainian>це</ukrainian>
+      </lingExplanation>
+    </ling> над на́ми таке́ <ling>
+      <lingText>безголо́в’ячко</lingText>
+      <lingExplanation><ukrainian>безголо́в’я</ukrainian> Anarchy, disorder; distress,
+        calamity</lingExplanation>
+    </ling>?»</p>
+  <p>Ці́лу весну́ <ling>
+      <lingText>напува́ли</lingText>
+      <lingExplanation><ukrainian>напува́ти</ukrainian> To give enough to drink, to
+        water</lingExplanation>
+    </ling> Усти́ну <ling>
+      <lingText>те́плим</lingText>
+      <lingExplanation><ukrainian>те́плий</ukrainian> Warm, tepid</lingExplanation>
+    </ling> молоко́м, <ling>
+      <lingText><ukrainian>поки́</ukrainian></lingText>
+      <lingExplanation>Until</lingExplanation>
+    </ling> вона́ <ling>
+      <lingText>оду́жала</lingText>
+      <lingExplanation><ukrainian>оду́жати</ukrainian> To recover, grow better, be
+        convalescent</lingExplanation>
+    </ling>.</p>
+</chapter>

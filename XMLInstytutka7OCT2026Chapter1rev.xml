@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="instytutka.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="instytutka.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<chapter n="1">
+  <p>Лю́ди <ling>
+      <lingText>диву́ються</lingText>
+      <lingExplanation><ukrainian>дивува́тися</ukrainian>
+        <gloss>to wonder, marvel, be surprised, be astonished</gloss></lingExplanation>
+    </ling>, що я́ <ling>
+      <lingText>весе́ла</lingText>
+      <lingExplanation><ukrainian>весе́лий</ukrainian>
+        <gloss>cheerful, joyous</gloss></lingExplanation>
+    </ling>: <ling>
+      <lingText>наді́йсь</lingText>
+      <lingExplanation><ukrainian>наді́ятися</ukrainian>
+        <gloss>You would expect</gloss></lingExplanation>
+    </ling>, <ling>
+      <lingText>го́ря</lingText>
+      <lingExplanation><ukrainian>го́ре</ukrainian>
+        <gloss>grief</gloss></lingExplanation>
+    </ling>-<ling>
+      <lingText>біди́</lingText>
+      <lingExplanation><ukrainian>біда́</ukrainian>
+        <gloss>misfortune</gloss></lingExplanation>
+    </ling> не зна́ла. <ling>
+      <lingText>А я́ зро́ду така́ вдала́ся</lingText>
+      <lingExplanation><ukrainian>зро́ду</ukrainian>
+        <gloss>in all one’s life, ever, since birth</gloss>. <ukrainian>уда́тися</ukrainian>
+        <gloss>to be born with, inherit</gloss>. The phrase <ukrainian>а я́ зро́ду така́
+          вдала́ся</ukrainian> means <gloss>but I had inherited by birth</gloss>.</lingExplanation>
+    </ling>. <ling>
+      <lingText>Уроди́сь</lingText>
+      <lingExplanation><ukrainian>уродити́ся</ukrainian>
+        <gloss>to be born</gloss></lingExplanation>
+    </ling>, <ling>
+      <lingText>ка́жуть</lingText>
+      <lingExplanation><ukrainian>каза́ти</ukrainian>
+        <gloss>to say, speak, spell, talk</gloss></lingExplanation>
+    </ling>, та і вда́йся… <ling>
+      <lingText>Було́</lingText>
+      <lingExplanation><gloss>it happened that</gloss></lingExplanation>
+    </ling>, мене́ й <ling>
+      <lingText>б’ю́ть</lingText>
+      <lingExplanation><ukrainian>би́ти</ukrainian>
+        <gloss>to beat, hit, strike</gloss></lingExplanation>
+    </ling> (<ling>
+      <lingText>бода́й не зга́дувати</lingText>
+      <lingExplanation>The phrase <ukrainian>бода́й не зга́дувати</ukrainian> means <gloss>it would
+          be better to not recall</gloss>.</lingExplanation>
+    </ling>)! — не <ling>
+      <lingText>здержу́</lingText>
+      <lingExplanation><ukrainian>зде́ржати</ukrainian>
+        <gloss>to hold back, restrain oneself</gloss></lingExplanation>
+    </ling>
+    <ling>
+      <lingText>се́рця</lingText>
+      <lingExplanation><ukrainian>се́рце</ukrainian>
+        <gloss>heart</gloss></lingExplanation>
+    </ling>, <ling>
+      <lingText>запла́чу</lingText>
+      <lingExplanation><ukrainian>запла́кати</ukrainian>
+        <gloss>weeping, crying</gloss></lingExplanation>
+    </ling>; а <ling>
+      <lingText>розду́маюсь</lingText>
+      <lingExplanation><ukrainian>розду́матися</ukrainian>
+        <gloss>to ponder</gloss></lingExplanation>
+    </ling> тро́хи — і <ling>
+      <lingText>смію́ся</lingText>
+      <lingExplanation><ukrainian>смія́тися</ukrainian>
+        <gloss>to laugh</gloss>. <ukrainian>Було́</ukrainian> + perfective future verbs is a way to
+        express frequentative sequences in the past.</lingExplanation>
+    </ling>. <ling>
+      <lingText>Бува́є</lingText>
+      <lingExplanation><ukrainian>бува́ти</ukrainian>
+        <gloss>it often occurs, happens</gloss></lingExplanation>
+    </ling>
+    <ling>
+      <lingText>ли́хо</lingText>
+      <lingExplanation><gloss>evil, grief, sadness</gloss></lingExplanation>
+    </ling>, що пла́че, а бува́є, що й <ling>
+      <lingText>ска́че</lingText>
+      <lingExplanation><ukrainian>ската́ти</ukrainian>
+        <gloss>to jump, skip, cavort</gloss></lingExplanation>
+    </ling>, — то та́к і моє́ <ling>
+      <lingText>ли́шенько</lingText>
+      <lingExplanation><ukrainian>ли́хо</ukrainian> (dim. of <ukrainian>ли́хо</ukrainian>)
+          <gloss>misfortune</gloss></lingExplanation>
+    </ling>. <ling>
+      <lingText>Якби́</lingText>
+      <lingExplanation><gloss>if</gloss></lingExplanation>
+    </ling> мені́ за <ling>
+      <lingText>ко́жною</lingText>
+      <lingExplanation><ukrainian>ко́жний</ukrainian>
+        <gloss>every, all</gloss></lingExplanation>
+    </ling> бідо́ю моє́ю пла́кати, <ling>
+      <lingText>до́сі</lingText>
+      <lingExplanation><gloss>by now, till now</gloss></lingExplanation>
+    </ling> б і <ling>
+      <lingText>о́чі</lingText>
+      <lingExplanation><ukrainian>о́ко</ukrainian>
+        <gloss>eye</gloss></lingExplanation>
+    </ling> я́ ви́плакала. Ба́тька-ма́тері не <ling>
+      <lingText>зазнаю́</lingText>
+      <lingExplanation><ukrainian>зазнава́ти</ukrainian>
+        <gloss>to know, remember</gloss></lingExplanation>
+    </ling>: 
+    <ling>
+      <lingText>сирото́ю</lingText>
+      <lingExplanation><ukrainian>сирота́</ukrainian>
+        <gloss>orphan</gloss></lingExplanation>
+    </ling> зросла́ я́, <ling>
+      <lingText>при чужині́, у лю́дях</lingText>
+      <lingExplanation><ukrainian>чужи́на</ukrainian>
+        <gloss>foreign country (land)</gloss>.The phrase <ukrainian>при́ чужині́, у лю́дях</ukrainian>
+        means <gloss>in a foreign land among strangers</gloss>.</lingExplanation>
+    </ling>. <ling>
+      <lingText>Хо́ч</lingText>
+      <lingExplanation><gloss>even if, although</gloss></lingExplanation>
+    </ling> не було́ <ling>
+      <lingText>ді́ла</lingText>
+      <lingExplanation><ukrainian>ді́ло</ukrainian>
+        <gloss>affair, work</gloss></lingExplanation>
+    </ling>
+    <ling>
+      <lingText>важко́го</lingText>
+      <lingExplanation><ukrainian>важки́й</ukrainian>
+        <gloss>hard, difficult</gloss></lingExplanation>
+    </ling>, — та́к <ling>
+      <lingText>забува́ли</lingText>
+      <lingExplanation><ukrainian>забува́ти</ukrainian>
+        <gloss>to forget</gloss></lingExplanation>
+    </ling> про ме́не, <ling>
+      <lingText>чи</lingText>
+      <lingExplanation><gloss>if, whether</gloss></lingExplanation>
+    </ling> я́ не <ling>
+      <lingText>голо́дна</lingText>
+      <lingExplanation><ukrainian>голо́дний</ukrainian>
+        <gloss>hungry</gloss></lingExplanation>
+    </ling>, не <ling>
+      <lingText>холо́дна</lingText>
+      <lingExplanation><ukrainian>холо́дний</ukrainian>
+        <gloss>cold</gloss></lingExplanation>
+    </ling>, чи <ling>
+      <lingText>жива́</lingText>
+      <lingExplanation><ukrainian>живи́й</ukrainian>
+        <gloss>alive</gloss></lingExplanation>
+    </ling> я́…</p>
+  <p>На <ling>
+      <lingText>десятилі́ттях</lingText>
+      <lingExplanation><ukrainian>десятилі́ття</ukrainian>
+        <gloss>tenth birthday, decade, (pl.) teens</gloss></lingExplanation>
+    </ling>
+    <ling>
+      <lingText>взяли́</lingText>
+      <lingExplanation><ukrainian>взя́ти</ukrainian>
+        <gloss>to take</gloss></lingExplanation>
+    </ling> мене́ в <ling>
+      <lingText>дві́р</lingText>
+      <lingExplanation><gloss>manor house</gloss></lingExplanation>
+    </ling>. Стара́ па́ні була́ не́ що, <ling>
+      <lingText>суми́рна</lingText>
+      <lingExplanation><ukrainian>суми́р</ukrainian>
+        <gloss>eaceful, on good terms</gloss></lingExplanation>
+    </ling> собі́, — мо́же, тому́, що вже́ <ling>
+      <lingText>благе́нька</lingText>
+      <lingExplanation><ukrainian>благе́(се)нький</ukrainian> Diminutive of
+          <ukrainian>благи́й</ukrainian>
+        <gloss>weak, ancient</gloss></lingExplanation>
+    </ling> була́, <ling>
+      <lingText>ле́две</lingText>
+      <lingExplanation><gloss>hardly</gloss></lingExplanation>
+    </ling> но́ги <ling>
+      <lingText>волочи́ла</lingText>
+      <lingExplanation><ukrainian>волочи́ти</ukrainian>
+        <gloss>to drag along</gloss></lingExplanation>
+    </ling>, а загово́рить — ті́льки <ling>
+      <lingText>ша́м-ша́м</lingText>
+      <lingExplanation><gloss>whisper, mumble</gloss></lingExplanation>
+    </ling>, <ling>
+      <lingText>одра́зу</lingText>
+      <lingExplanation><ukrainian>відра́зу</ukrainian>
+        <gloss>at once, suddenly</gloss></lingExplanation>
+    </ling> й не <ling>
+      <lingText>розбере́ш</lingText>
+      <lingExplanation><ukrainian>розбира́ти</ukrainian>
+        <gloss>to comprehend</gloss></lingExplanation>
+    </ling>; та́к куди́ вже́ <ling>
+      <lingText>бі́йка</lingText>
+      <lingExplanation><gloss>beating, whipping</gloss></lingExplanation>
+    </ling>! <ling>
+      <lingText>не на умі́</lingText>
+      <lingExplanation><gloss>that was not to be thought of!</gloss></lingExplanation>
+    </ling>. Уве́сь де́нь на <ling>
+      <lingText>ґа́ночках</lingText>
+      <lingExplanation>diminutive of <ukrainian>ґа́нок</ukrainian>
+        <gloss>porch</gloss></lingExplanation>
+    </ling>; ні́чка йде́ — <ling>
+      <lingText>о́хає</lingText>
+      <lingExplanation><ukrainian>о́хати</ukrainian>
+        <gloss>to moan, sigh, groan, lament</gloss></lingExplanation>
+    </ling> та <ling>
+      <lingText>сто́гне</lingText>
+      <lingExplanation><ukrainian>стогна́ти</ukrainian>
+        <gloss>to groan, moan, complain</gloss></lingExplanation>
+    </ling>.</p>
+  <p>За ме́не, то вже́ в дворі́ жили́ ми́ <ling>
+      <lingText>спокійне́нько</lingText>
+      <lingExplanation><ukrainian>спокійне́нький</ukrainian> eiminutive of
+          <ukrainian>спокі́йний</ukrainian>
+        <gloss>peace, quiet</gloss></lingExplanation>
+    </ling>; одно́ було́ го́ре, що з дво́ру й <ling>
+      <lingText>ступи́ти</lingText>
+      <lingExplanation><gloss>to step</gloss></lingExplanation>
+    </ling> не <ling>
+      <lingText>пу́стять</lingText>
+      <lingExplanation><gloss>to allow, permit, let</gloss></lingExplanation>
+    </ling>. <ling>
+      <lingText>Хіба́ вже́</lingText>
+      <lingExplanation><gloss>unless</gloss></lingExplanation>
+    </ling> на вели́ке <ling>
+      <lingText>свя́то</lingText>
+      <lingExplanation><gloss>holiday, feast</gloss></lingExplanation>
+    </ling>, що до це́ркви <ling>
+      <lingText>одпро́симось</lingText>
+      <lingExplanation><ukrainian>відпроси́тися</ukrainian>
+        <gloss>to be freed by means of entreaties</gloss></lingExplanation>
+    </ling>, а в неді́лю й не ду́май. «<ling>
+      <lingText>Розволо́читесь</lingText>
+      <lingExplanation><ukrainian>розволочи́тися</ukrainian>
+        <gloss>to be accustomed to rambling</gloss></lingExplanation>
+    </ling>, — було́, ка́же па́ні <ling>
+      <lingText>гні́ваючись</lingText>
+      <lingExplanation><ukrainian>гні́ватися</ukrainian>
+        <gloss>to be angry</gloss></lingExplanation>
+    </ling>, — не <ling>
+      <lingText>пущу́</lingText>
+      <lingExplanation><ukrainian>пу́стять</ukrainian> cf.
+        <ukrainian>пу́стять</ukrainian></lingExplanation>
+    </ling>!..»</p>
+  <p>У старо́ї па́ні не було́ ро́ду, <ling>
+      <lingText>окрі́м</lingText>
+      <lingExplanation><gloss>but</gloss></lingExplanation>
+    </ling> ма́ла собі́ <ling>
+      <lingText>уну́чечку</lingText>
+      <lingExplanation><ukrainian>уну́чечка</ukrainian> diminutive of <ukrainian>уну́ка</ukrainian>
+        <gloss>granddaughter</gloss></lingExplanation>
+    </ling>, — у Ки́єві <ling>
+      <lingText>обуча́лась</lingText>
+      <lingExplanation><ukrainian>обуча́тися</ukrainian>
+        <gloss>to learn, study</gloss></lingExplanation>
+    </ling> у яко́мусь та́м… от коли́ б <ling>
+      <lingText>ви́мовити</lingText>
+      <lingExplanation><gloss>to pronounce, utter</gloss></lingExplanation>
+    </ling>… ін-сти-ту́-ті… Було́ <ling>
+      <lingText>часте́нько</lingText>
+      <lingExplanation><ukrainian>часте́нький</ukrainian>
+        <gloss>quite often</gloss>, emphatic of <ukrainian>ча́стий</ukrainian>
+        <gloss>often</gloss>
+      </lingExplanation>
+    </ling> до старо́ї листи́ <ling>
+      <lingText>шле́</lingText>
+      <lingExplanation><ukrainian>сла́ти</ukrainian>
+        <gloss>to send</gloss></lingExplanation>
+    </ling>; а стара́ ті́ листи́ щодня́ вичи́тує, — і <ling>
+      <lingText>попопла́че</lingText>
+      <lingExplanation><ukrainian>попла́кати</ukrainian>
+        <gloss>to cry or weep (for a while)</gloss></lingExplanation>
+    </ling> над ни́ми, і <ling>
+      <lingText>попосміє́ться</lingText>
+      <lingExplanation><ukrainian>попосмія́тися</ukrainian>
+        <gloss>to laugh much</gloss></lingExplanation>
+    </ling>. Коли пи́ше уну́чечка, <ling>
+      <lingText>щоб</lingText>
+      <lingExplanation><ukrainian>що́б</ukrainian>
+        <gloss>in order to</gloss> (thus a request or command)</lingExplanation>
+    </ling> уже́ приїзди́ти за не́ю та додо́му <ling>
+      <lingText>забира́ти</lingText>
+      <lingExplanation><gloss>to take, snatch away</gloss></lingExplanation>
+    </ling>… Ма́ти Бо́жа! уве́сь буди́нок <ling>
+      <lingText>зворухну́вся</lingText>
+      <lingExplanation><ukrainian>зворухну́тися</ukrainian>
+        <gloss>to begin to bustle</gloss></lingExplanation>
+    </ling>: <ling>
+      <lingText>біли́ти</lingText>
+      <lingExplanation><gloss>to bleach</gloss></lingExplanation>
+    </ling>, <ling>
+      <lingText>ми́ти</lingText>
+      <lingExplanation><gloss>to wash</gloss></lingExplanation>
+    </ling>, <ling>
+      <lingText>прибира́ти</lingText>
+      <lingExplanation><gloss>to pick up things and order the house</gloss></lingExplanation>
+    </ling>!.. <ling>
+      <lingText>Па́нночки</lingText>
+      <lingExplanation><ukrainian>па́нночка</ukrainian>
+        <gloss>mistress</gloss></lingExplanation>
+    </ling>
+    <ling>
+      <lingText>сподіва́ємось</lingText>
+      <lingExplanation><ukrainian>сподіва́тися</ukrainian>
+        <gloss>to expect, look forward to</gloss></lingExplanation>
+    </ling>! Па́нночка бу́де!</p>
+</chapter>
