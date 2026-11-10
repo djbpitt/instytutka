@@ -30,8 +30,12 @@
         &lt;ukrainian&gt; element must not be followed immediately by a letter.</sch:report>
     </sch:rule>
     <sch:rule context="gloss">
+      <sch:let name="firstChar" value="substring(., 1, 1)"/>
       <sch:assert test="matches(., '[\p{IsBasicLatin}]')">A &lt;gloss&gt; element must contain at
         least some Latin characters</sch:assert>
+      <sch:report role="warning" test="$firstChar eq upper-case($firstChar)">A gloss can begin with
+        an upper-case letter only when the word is always spelled that way, e.g., a proper
+        noun.</sch:report>
     </sch:rule>
     <sch:rule context="lingText">
       <sch:report test="ends-with(., ' ')">&lt;lingText&gt; must not end in a space
@@ -40,15 +44,19 @@
         mark</sch:report>
       <sch:assert test="matches(., '^[ :’,!…\n\(\)\-&#x0301;\p{IsCyrillic}]+$')">A &lt;lingText&gt;
         element must contain only Cyrillic characters and selected punctuation</sch:assert>
+      <sch:report test="ukrainian">Do not tag the content of &lt;lingText&gt; as
+        &lt;ukrainian&gt;</sch:report>
     </sch:rule>
     <sch:rule context="lingExplanation">
       <sch:let name="last" value="node()[last()][self::text()]"/>
       <sch:report test="ends-with($last, ' ') and not(matches($last, '^\n +$'))"
-        >&lt;lingExplanation&gt; must not end in space characters the entire node is one newline
-        followed by spaces</sch:report>
+        >&lt;lingExplanation&gt; must not end in space characters unless the entire node is one
+        newline followed by spaces</sch:report>
       <sch:report test="ukrainian[not(preceding-sibling::node())] = preceding-sibling::lingText"
         >Don’t repeat the &lt;lingText&gt; at the beginning of the
         &lt;lingExplanation&gt;</sch:report>
+      <sch:assert test="gloss">A &lt;lingExplanation&gt; must contain at least one
+        &lt;gloss&gt;</sch:assert>
     </sch:rule>
   </sch:pattern>
 </sch:schema>
